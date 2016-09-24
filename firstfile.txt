@@ -1,1 +1,2 @@
 Hi atom, this is a text file.
+This time, we are gonna add stuff.
